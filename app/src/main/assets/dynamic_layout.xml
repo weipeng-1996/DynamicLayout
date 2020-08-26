@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WPlayout>
+    <Button color="#ffff00">
+    </Button>
+    <WPlayout>
+        <Button>
+        </Button>
+        <Text>
+        </Text>
+        <WPlayout>
+            <Button>
+            </Button>
+            <Text>
+            </Text>
+        </WPlayout>
+    </WPlayout>
+    <Button>
+    </Button>
+</WPlayout>
